@@ -1,7 +1,4 @@
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/controller/TutorialController.java
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/controller/CustomerController.java
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/repository/TutorialRepository.java
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/repository/CustomerRepository.java
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/model/Customer.java
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/model/Tutorial.java
-/home/julian/ejercicioOcctubre/docker-compose-spring-boot-mysql/bezkoder-app/src/main/java/com/bezkoder/spring/datajpa/SpringBootDataJpaApplication.java
+/home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/controller/CustomerController.java
+/home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/repository/CustomerRepository.java
+/home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/model/Customer.java
+/home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/SpringBootDataJpaApplication.java

@@ -1,4 +1,4 @@
-package com.bezkoder.spring.datajpa.repository;
+package com.julian.spring.datajpa.repository;
 
 import java.util.List;
 

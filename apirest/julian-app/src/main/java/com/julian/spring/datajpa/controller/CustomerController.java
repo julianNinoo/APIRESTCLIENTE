@@ -1,4 +1,4 @@
-package com.bezkoder.spring.datajpa.controller;
+package com.julian.spring.datajpa.controller;
 
 import java.util.ArrayList;
 import java.util.List;
