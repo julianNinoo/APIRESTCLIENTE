@@ -25,9 +25,9 @@ import com.julian.spring.datajpa.model.Customer;
 
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController
-@RequestMapping("/api2")
+@RequestMapping("/api")
 public class CustomerController {
-    @Autowired
+	@Autowired
 	CustomerRepository customerRepository;
 
 	@GetMapping("/customers")
@@ -112,9 +112,4 @@ public class CustomerController {
 		}
 
 	}
-
-
-
-
-
 }
