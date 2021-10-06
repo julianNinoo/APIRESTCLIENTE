@@ -1,7 +1,4 @@
-com/bezkoder/spring/datajpa/repository/TutorialRepository.class
-com/bezkoder/spring/datajpa/model/Customer.class
-com/bezkoder/spring/datajpa/controller/TutorialController.class
-com/bezkoder/spring/datajpa/repository/CustomerRepository.class
-com/bezkoder/spring/datajpa/model/Tutorial.class
-com/bezkoder/spring/datajpa/controller/CustomerController.class
-com/bezkoder/spring/datajpa/SpringBootDataJpaApplication.class
+com/julian/spring/datajpa/model/Customer.class
+com/julian/spring/datajpa/repository/CustomerRepository.class
+com/julian/spring/datajpa/controller/CustomerController.class
+com/julian/spring/datajpa/SpringBootDataJpaApplication.class

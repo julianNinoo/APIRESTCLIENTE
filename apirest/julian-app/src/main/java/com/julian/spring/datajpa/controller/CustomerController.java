@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Optional;
 
-import com.bezkoder.spring.datajpa.repository.CustomerRepository;
+import com.julian.spring.datajpa.repository.CustomerRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
 
-import com.bezkoder.spring.datajpa.model.Customer;
+import com.julian.spring.datajpa.model.Customer;
 
 @CrossOrigin(origins = "http://localhost:8081")
 @RestController
