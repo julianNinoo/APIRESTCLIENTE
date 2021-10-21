@@ -1,4 +1,4 @@
-/home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/repository/CustomerRepository.java
 /home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/controller/CustomerController.java
 /home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/model/Customer.java
+/home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/repository/CustomerRepository.java
 /home/julian/DevopsGit/apirest/julian-app/src/main/java/com/julian/spring/datajpa/SpringBootDataJpaApplication.java
